@@ -1,1 +1,12 @@
-Style
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td{
+    padding: 8px;
+    vertical-align: top;
+}
+h2,h3,h4{
+    margin-top: 20px;
+}
